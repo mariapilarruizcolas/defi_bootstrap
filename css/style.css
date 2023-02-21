@@ -36,13 +36,6 @@ h2 {
     background-color: var(--bg-elements-color);
 }
 
-/* .card-footer {
-    background-color: transparent;
-    border: 0;
-    align-items: end;
-
-
-} */
 
 .dropdown-menu {
     margin-left: -50px;
@@ -82,7 +75,7 @@ img {
 .btn {
     display: flex;
     justify-content: center;
-    /* margin-top: 50px; */
+  
 }
 
 .bt-footer {
