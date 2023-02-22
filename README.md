@@ -1,5 +1,5 @@
-# defi_bootstrap
+# Défi bootstrap 5
 
->Projet basé sur le challenge de la page https://odyssey.wildcodeschool.com/quests/1980
+>Projet basé sur le challenge de la page https://odyssey.wildcodeschool.com/quests/1980  
 
->>Une page en Bootstrap
+Une page en Bootstrap
